@@ -8,5 +8,10 @@ public class FirstController {
 	public String getHelloMsg() {
 		return "hello";
 	}
+	
+	public String getHelloMsg1() {
+		return "hello";
+	}
+
 
 }
